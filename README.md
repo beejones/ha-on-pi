@@ -14,4 +14,4 @@ All reference images use pi as user and password. Change the password when using
 
 ```shell
 passwd
-'''
+```

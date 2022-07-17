@@ -10,4 +10,4 @@ To learn how to setup a raspberry pi with Home Assistant go to our [Wiki](https:
 
 In releases you find some ready made images which can be burned to a micro sd card.
 
-All reference images use pi as user and password.
+All reference images use pi as user and password. Change the password when using the images.

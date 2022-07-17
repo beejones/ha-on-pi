@@ -8,6 +8,6 @@ Home Assistant is a very popular home automation platform allowing a huge amount
 
 To learn how to setup a raspberry pi with Home Assistant go to our [Wiki](https://github.com/beejones/ha-on-pi/wiki).
 
-In releases you find some ready made images which can be burned to a microsd card.
+In releases you find some ready made images which can be burned to a micro sd card.
 
 All reference images use pi as user and password.
